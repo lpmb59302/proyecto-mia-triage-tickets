@@ -26,16 +26,16 @@ Los experimentos fueron desarrollados en Google Colab y pueden ejecutarse utiliz
 
 Cada notebook documenta las etapas de carga y preparación de datos, procesamiento del texto, entrenamiento del modelo y evaluación de resultados.
 
-## Dependencias principales
+## Dependencias y versiones
 
-- Python
-- pandas
-- NumPy
-- scikit-learn
-- matplotlib
-- seaborn
+El prototipo fue desarrollado y ejecutado en Google Colab utilizando las siguientes versiones:
 
-Las versiones específicas utilizadas se documentarán en este repositorio para facilitar la reproducción de los experimentos.
+- Python 3.12.13
+- pandas 2.2.2
+- NumPy 2.0.2
+- scikit-learn 1.6.1
+- matplotlib 3.10.0
+- seaborn 0.13.2
 
 ## Estado del proyecto
 
